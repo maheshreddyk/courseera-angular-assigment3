@@ -2,6 +2,6 @@
 {
 
  var module =   angular.module("NarrowItDownApp", []);
- module.constant('ApiBasePath', "http://davids-restaurant.herokuapp.com/");
+ module.constant('ApiBasePath', "https://davids-restaurant.herokuapp.com/");
 
 })();
